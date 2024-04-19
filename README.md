@@ -1,5 +1,7 @@
 <h1>Hi, I'm Jakob! <br/><a href="https://github.com/JohnnyHackz">Programmer</a>, <a href = "https://www.linkedin.com/in/jakob-berentsen-38a7b6209">Cybersecurity Professional</a>
-<h2><a href = "https://images.wallpapersden.com/image/download/anonymous-hacker-working_bGllZ2mUmZqaraWkpJRobWllrWdpZWU.jpg"></h2>
+
+![Alt Text](https://images.wallpapersden.com/image/download/anonymous-hacker-working_bGllZ2mUmZqaraWkpJRobWllrWdpZWU.jpg)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
