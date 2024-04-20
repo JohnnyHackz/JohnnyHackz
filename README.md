@@ -1,7 +1,7 @@
 # Hi, I'm Jakob!
 
-I'm a Programmer and Cybersecurity Professional. Explore my work and projects below!
-
+<h4>I'm a Programmer and Cybersecurity Professional. As a proud Computer Science grad, I currently navigate the intricate worlds of IT and cybersecurity. From troubleshooting complex hardware issues to fortifying networks against the latest threats, I’m on a mission to make technology both powerful and safe. Dive into my repos to explore innovative solutions and collaborative projects. Let’s build a safer and smarter tech future together! Explore my work and projects below!</h4>
+<br>
 <img src="https://images.wallpapersden.com/image/download/anonymous-hacker-working_bGllZ2mUmZqaraWkpJRobWllrWdpZWU.jpg" width="600" alt="Jakob's Work">
 
 ## Connect with Me
